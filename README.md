@@ -65,13 +65,13 @@ where `n` is the number of trials and `0 <= p <= 1` is the success probability.
 ## Usage
 
 ```javascript
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@esm/index.mjs';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@v0.2.3-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@v0.2.3-esm/index.mjs';
 ```
 
 #### logpmf( x, n, p )
@@ -158,7 +158,7 @@ y = mylogpmf( 5.0 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@esm/index.mjs';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-logpmf@v0.2.3-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
