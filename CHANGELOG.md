@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`620be0b`](https://github.com/stdlib-js/stdlib/commit/620be0baebda152a786918d03a5d00994aed26b2) - **chore:** clean-up [(#13643)](https://github.com/stdlib-js/stdlib/pull/13643) _(by Philipp Burckhardt, Athan Reines)_
 -   [`34af926`](https://github.com/stdlib-js/stdlib/commit/34af92690ca2581ae6fc94b17b5023c61810ceb6) - **feat:** add C implementation for `stats/base/dists/binomial/logpmf` [(#4417)](https://github.com/stdlib-js/stdlib/pull/4417) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`0204d5b`](https://github.com/stdlib-js/stdlib/commit/0204d5b64b628abb922b32e83dfa5d4919b2a4b1) - **chore:** update keywords [(#11902)](https://github.com/stdlib-js/stdlib/pull/11902) _(by Philipp Burckhardt)_
 -   [`675c404`](https://github.com/stdlib-js/stdlib/commit/675c404341e210a6ff4d37477bbc3f79e927fd8d) - **bench:** refactor to use string interpolation in `stats/base/dists/binomial` [(#10176)](https://github.com/stdlib-js/stdlib/pull/10176) _(by Vishal Gaikwad)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Vishal Gaikwad
