@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-09-03)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ae8130c`](https://github.com/stdlib-js/stdlib/commit/ae8130cfa19b64d8c248bd97341c14f5979912a0) - **test:** migrate `stats/base/dists/binomial/logpmf` to ULP-based assertions [(#14916)](https://github.com/stdlib-js/stdlib/pull/14916) _(by Aryan kumar)_
 -   [`620be0b`](https://github.com/stdlib-js/stdlib/commit/620be0baebda152a786918d03a5d00994aed26b2) - **chore:** clean-up [(#13643)](https://github.com/stdlib-js/stdlib/pull/13643) _(by Philipp Burckhardt, Athan Reines)_
 -   [`34af926`](https://github.com/stdlib-js/stdlib/commit/34af92690ca2581ae6fc94b17b5023c61810ceb6) - **feat:** add C implementation for `stats/base/dists/binomial/logpmf` [(#4417)](https://github.com/stdlib-js/stdlib/pull/4417) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`0204d5b`](https://github.com/stdlib-js/stdlib/commit/0204d5b64b628abb922b32e83dfa5d4919b2a4b1) - **chore:** update keywords [(#11902)](https://github.com/stdlib-js/stdlib/pull/11902) _(by Philipp Burckhardt)_
@@ -49,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
